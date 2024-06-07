@@ -11,6 +11,7 @@ This document provides an overview of the technologies used in the project.
 - ShadcnUI - A React component base library for building custom designs.
 - HyperUI - A tailwind CSS based opensource UI components.
 - Lucide - A set of simply beautiful open-source icons.
+- Turso - A sqlite based database provider on the edge.
 
 ## ShadcnUI
 
@@ -25,3 +26,10 @@ It is a collection of base components that you can use to build your own compone
 
 Clerk is used for authentication and user management. It provides a simple way to add authentication to the application.
 We are on clerk free plan for now. It gives us 10k users for free.
+
+## Turso
+
+Turso is a sqlite based database provider on the edge. We are on the free plan which gives 9gb free.
+Turso database name = cricket-manager
+Turso database url = libsql://cricket-manager-arghasen.turso.io
+Turso database location = Mumbai, India
