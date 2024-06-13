@@ -12,6 +12,10 @@ This document provides an overview of the technologies used in the project.
 - HyperUI - A tailwind CSS based opensource UI components.
 - Lucide - A set of simply beautiful open-source icons.
 - Turso - A sqlite based database provider on the edge.
+- Jest - A JavaScript testing framework.
+- React Testing Library - A simple and complete testing library for React.
+- Ts-Jest - A TypeScript preprocessor with source map support for Jest.
+- Pino - A Node.js logger.
 
 ## ShadcnUI
 
