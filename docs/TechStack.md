@@ -16,6 +16,7 @@ This document provides an overview of the technologies used in the project.
 - React Testing Library - A simple and complete testing library for React.
 - Ts-Jest - A TypeScript preprocessor with source map support for Jest.
 - Pino - A Node.js logger.
+- Stdlib - A standard library for JavaScript and Node.js, with an emphasis on numerical and scientific computing applications.
 
 ## ShadcnUI
 
@@ -37,3 +38,10 @@ Turso is a sqlite based database provider on the edge. We are on the free plan w
 Turso database name = cricket-manager
 Turso database url = libsql://cricket-manager-arghasen.turso.io
 Turso database location = Mumbai, India
+
+# Stdlib
+
+Cricket Manager uses stdlib for its match engine. As there is lot of probability and statistics involved in cricket, stdlib is a perfect fit as it provides numpy/stats like functionality in JavaScript. Uses of this library include:
+
+- Bernoulli distribution - Toss
+- Gamma Distribution - Player Performance variation on a ball by ball basis
