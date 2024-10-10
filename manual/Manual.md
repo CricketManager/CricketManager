@@ -3,6 +3,8 @@
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Team Management](#team-management)
+3. [Match Simulation](#Match-Simulation)
+4. [Player Development](#Player-Development)
 
 ## Introduction
 Welcome to **_Cricket Manager_**! This game allows you to manage a cricket team and compete against other players. It is an online game that is free to play.
